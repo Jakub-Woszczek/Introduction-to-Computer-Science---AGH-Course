@@ -1,1 +1,1 @@
-# Introduction-to-Computer-Science---AGH-Course
+# Introduction-to-Computer-Science-AGH-Course
